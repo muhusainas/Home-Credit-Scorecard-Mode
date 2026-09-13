@@ -77,6 +77,5 @@ Home Credit melayani nasabah yang minim atau tanpa riwayat kredit formal (*under
 1. Gunakan **HistGradientBoosting** sebagai model utama; **Logistic Regression** sebagai pendamping untuk *explainability* & compliance
 2. Operasikan pada threshold **~0.65**, bukan 0.5
 3. Terapkan sebagai sistem *tiering* (auto-approve / review manual / auto-reject), bukan keputusan biner
-4. Validasi ulang asumsi LGD & margin bersama tim finance sebelum implementasi produksi
 
 ---
