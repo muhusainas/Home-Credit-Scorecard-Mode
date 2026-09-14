@@ -1,6 +1,6 @@
 # Home Credit Default Risk — Prediksi Risiko Gagal Bayar
 
-Analisis end-to-end untuk memprediksi risiko klien mengalami kesulitan pembayaran pinjaman, menggunakan dataset **Home Credit Default Risk** (Kaggle). Project ini mencakup keseluruhan alur data science: eksplorasi data, feature engineering dari data relasional, pemodelan machine learning, evaluasi, hingga penerjemahan hasil ke rekomendasi bisnis.
+Analisis end-to-end untuk memprediksi risiko klien mengalami kesulitan pembayaran pinjaman, menggunakan dataset **Home Credit Default Risk**. Project ini mencakup keseluruhan alur data science: eksplorasi data, feature engineering dari data relasional, pemodelan machine learning, evaluasi, hingga penerjemahan hasil ke rekomendasi bisnis.
 
 ## Latar Belakang
 
